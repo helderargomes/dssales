@@ -37,3 +37,6 @@
 2025-03-25 07:04:29,634 [Worker-8: Launching backend - DssalesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2025-03-25 07:04:29,646 [Worker-8: Launching backend - DssalesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-03-25 07:04:29,646 [Worker-8: Launching backend - DssalesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-03-25 07:04:29,646 [Worker-8: Launching backend - DssalesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ws-bootcamp\dssales\backend\src\test\resources
+2025-03-25 18:03:06,643 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-26 07:39:24,576 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
